@@ -1,0 +1,10 @@
+body {
+  font-family: Arial;
+  padding: 20px;
+}
+
+p {
+  background: #f4f4f4;
+  padding: 10px;
+  border-radius: 8px;
+}
