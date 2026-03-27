@@ -2,7 +2,7 @@ Tecnologias utilizadas: * JavaScript | * HTML | * CSS | * Python
 
 # 📚 Estudos Frontend 2
 
-Repositório criado para armazenar atividades e exercícios da disciplina de Frontend.
+Repositório criado para armazenar atividades e exercícios da disciplina de Front-end.
 
 ---
 
@@ -32,8 +32,16 @@ Repositório criado para armazenar atividades e exercícios da disciplina de Fro
 
 ---
 
+## 🖥️ IDE utilizadas
+
+* Visual Studio Code
+* IntelliJ
+* PyCharm
+
+---
+
 ## 🎯 Objetivo
 
-Praticar conceitos fundamentais de programação e desenvolvimento frontend, com foco em organização de código e resolução de problemas.
+Praticar conceitos fundamentais de programação e desenvolvimento front-end, com foco em organização de código e resolução de problemas.
 
 ---
