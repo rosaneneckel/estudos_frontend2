@@ -1,3 +1,5 @@
+Tecnologias utilizadas: * JavaScript | * HTML | * CSS | * Python 
+
 # 📚 Estudos Frontend 2
 
 Repositório criado para armazenar atividades e exercícios da disciplina de Frontend.
