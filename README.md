@@ -1,8 +1,6 @@
-Tecnologias utilizadas: * JavaScript | * HTML | * CSS | * Python 
+# 📚 Disciplina: Front-end II com lógica imperativa (P2)
 
-# 📚 Estudos Frontend 2
-
-Repositório criado para armazenar atividades e exercícios da disciplina de Front-end.
+Repositório criado para armazenar atividades e exercícios da disciplina de Front-end II.
 
 ---
 
@@ -17,18 +15,18 @@ Repositório criado para armazenar atividades e exercícios da disciplina de Fro
 
 ## 📂 Estrutura do projeto
 
-* `alunosAprovados/` → Exercícios de lógica com listas de alunos
-* `json_alunosAprovados/` → Manipulação de dados em formato JSON
-* `desafio_altura_python/` → Exercício complementar em Python
+* `alunos-aprovados/` → Exercícios de lógica com listas de alunos
+* `json-alunos-aprovados/` → Manipulação de dados em formato JSON
+* `desafio-altura/` → Exercício complementar em Python - nivelamento inicial
 
 ---
 
 ## 🛠️ Tecnologias utilizadas
 
 * JavaScript
-* Python
 * HTML
 * CSS
+* Python
 
 ---
 
@@ -43,5 +41,6 @@ Repositório criado para armazenar atividades e exercícios da disciplina de Fro
 ## 🎯 Objetivo
 
 Praticar conceitos fundamentais de programação e desenvolvimento front-end, com foco em organização de código e resolução de problemas.
+Foco 100% na linguagem de programação.
 
 ---
